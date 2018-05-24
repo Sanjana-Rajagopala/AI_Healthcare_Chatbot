@@ -9,6 +9,19 @@ The course of the project involved  -
 
 The project poster as well as the report are uploaded here.
 
+# Deployment
+APPROACH - 1
+
+1. Download the ZIP file.
+2. Import it in your DialogFlow account on Google.
+3. Explore and understand the flow using the entities and intents
+
+APPROACH - 2
+Use the link https://nlp-spring18-ui.herokuapp.com/ and play around with the Chatbot.
+Refer the Project report to understand the Decision tree of the chatbot before experimenting with the Chatbot.
+
+
+
 # Built With
 
 * [DialogFlow] - The chatbot framework by Google
