@@ -17,10 +17,10 @@ APPROACH - 1
 3. Explore and understand the flow using the entities and intents
 
 APPROACH - 2
+
 Use the link https://nlp-spring18-ui.herokuapp.com/ and play around with the Chatbot.
+
 Refer the Project report to understand the Decision tree of the chatbot before experimenting with the Chatbot.
-
-
 
 # Built With
 
